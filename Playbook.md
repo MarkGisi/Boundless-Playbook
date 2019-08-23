@@ -30,6 +30,18 @@ It should take less then five minutes for someone to submit an idea.
 
 ### Rule #3 Total Transparency with reqgard to all aspeects
 
+Zero mandate to participate – Only come and play if you choose
+Seamless Idea submission process – Should take < 5 minutes. 
+Complete Transparency - about what has been submitted, which stage an initiative is at, who is involved, …
+Visibility – allocated resources (webpage, git repo) to make information accessible and visible to everyone else.
+Evangelism – assign an internal Evangelist/Marketeer to evaluate stage status and to seek value/impact
+Recognition – Assign a person or committee to recognize innovators for their value contributions. 
+Each initiative is automatically allocated core resources (webpage, git repo). Ability to post demo video, slides, blogs, ….
+An assigned evangelist is responsible to seek company wide visibility (and resources) for each initiative
+Must support at leas the for stages 
+Recognition is given for each case of impact
+Recognize Managers – for innovations under their leadership
+Others are free to join an initiative 
 
 
 ## Acknowledgements
