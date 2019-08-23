@@ -28,7 +28,7 @@ No one should be required to submit an idea or work on particular project [auton
 ### Rule #2: Seamless idea submission process
 It should take less then five minutes for someone to submit an idea. 
 
-### Total Transparency with reqgard to all aspeects
+### Rule #3 Total Transparency with reqgard to all aspeects
 
 
 
